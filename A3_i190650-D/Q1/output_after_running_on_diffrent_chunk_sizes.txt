@@ -1,0 +1,61 @@
+Roll number = i190650
+threads ---->  last digit+9 = 0+9 = 9
+Question #01
+                      part#01 
+static: threads:9  chunk size = 0    execution time:0.044721
+static: threads:9  chunk size = 1    execution time:0.044716
+static: threads:9  chunk size = 2    execution time:0.045649
+static: threads:9  chunk size = 3    execution time:0.045723
+static: threads:9  chunk size = 4    execution time:0.044714
+
+dynamic: threads:9  chunk size = 0    execution time:0.164792
+dynamic: threads:9  chunk size = 1    execution time:0.154792
+dynamic: threads:9  chunk size = 2    execution time:0.095148
+dynamic: threads:9  chunk size = 3    execution time:0.082564
+dynamic: threads:9  chunk size = 4    execution time:0.071056
+
+guided: threads:9  chunk size = 0    execution time:0.04462
+guided: threads:9  chunk size = 1    execution time:0.04326
+guided: threads:9  chunk size = 2    execution time:0.043054
+guided: threads:9  chunk size = 3    execution time:0.043541
+guided: threads:9  chunk size = 4    execution time:0.04347
+
+
+
+    		 part#02
+static: threads:9  chunk size = 0    execution time:0.017205
+static: threads:9  chunk size = 1    execution time:0.017436
+static: threads:9  chunk size = 2    execution time:0.019273
+static: threads:9  chunk size = 3    execution time:0.01732
+static: threads:9  chunk size = 4    execution time:0.018461
+
+dynamic: threads:9  chunk size = 0    execution time:0.016167
+dynamic: threads:9  chunk size = 1    execution time:0.016258
+dynamic: threads:9  chunk size = 2    execution time:0.01689
+dynamic: threads:9  chunk size = 3    execution time:0.016794
+dynamic: threads:9  chunk size = 4    execution time:0.017491
+
+guided: threads:9  chunk size = 0    execution time:0.019075
+guided: threads:9  chunk size = 1    execution time:0.019973
+guided: threads:9  chunk size = 2    execution time:0.022087
+guided: threads:9  chunk size = 3    execution time:0.018835
+guided: threads:9  chunk size = 4    execution time:0.019131
+
+ 		part#03
+static: threads:9  chunk size = 0    execution time:0.119402
+static: threads:9  chunk size = 1    execution time:0.113084
+static: threads:9  chunk size = 2    execution time:0.120569
+static: threads:9  chunk size = 3    execution time:0.133204
+static: threads:9  chunk size = 4    execution time:0.132543
+
+dynamic: threads:9  chunk size = 0    execution time:0.11956
+dynamic: threads:9  chunk size = 1    execution time:0.123314
+dynamic: threads:9  chunk size = 2    execution time:0.149195
+dynamic: threads:9  chunk size = 3    execution time:0.131405
+dynamic: threads:9  chunk size = 4    execution time:0.158778
+
+guided: threads:9  chunk size = 0    execution time:0.156546
+guided: threads:9  chunk size = 1    execution time:0.137053
+guided: threads:9  chunk size = 2    execution time:0.122778
+guided: threads:9  chunk size = 3    execution time:0.154475
+guided: threads:9  chunk size = 4    execution time:0.134325

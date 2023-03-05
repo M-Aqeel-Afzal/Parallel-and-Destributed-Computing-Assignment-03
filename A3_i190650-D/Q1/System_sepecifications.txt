@@ -1,0 +1,11 @@
+Processer: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz   2.90 GHz
+
+Number of Cores: 2
+
+L1 chache: 128kb
+
+L2 chache: 512kb
+
+L3 chache: 4.0 mb
+
+Clock frequency: 2.90 GHz
